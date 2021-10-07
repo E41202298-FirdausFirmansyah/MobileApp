@@ -1,10 +1,13 @@
 # MobileApp
 
 Nama: Firdaus Firmansyah; 
+
 NIM: E41202298; 
+
 TIF Golongan D; 
 
 Screenshot Output App:
+
 -SelectionWidget:
 ![OutputSelectionWidget1](https://user-images.githubusercontent.com/80364860/136400749-81b372af-c93f-40f9-ac0e-910bd84b0da8.png)
 
