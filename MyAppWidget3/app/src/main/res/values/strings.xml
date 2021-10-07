@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My App Selection Widget</string>
+    <string name="listView">List View</string>
+    <string name="spinner">Spinner</string>
+    <string-array name="bahasa">
+        <item>English</item>  <item>Bahasa Indonesia</item>
+        <item>日本</item>   <item>Español</item>
+        <item>Deutsch</item><item>中文</item>
+    </string-array>
+    <string name="autocompletetext">Auto Complete Text</string>
+
+</resources>
